@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (OpenGLSample.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+C:\Users\PC\Desktop\RenderProject\Source.cpp(431,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\PC\Desktop\RenderProject\Source.cpp(527,63): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\PC\Desktop\RenderProject\Source.cpp(601,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\PC\Desktop\RenderProject\Source.cpp(602,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\PC\Desktop\RenderProject\Source.cpp(606,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\PC\Desktop\RenderProject\Source.cpp(607,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\PC\Desktop\RenderProject\Source.cpp(608,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\PC\Desktop\RenderProject\Source.cpp(609,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  OpenGLSample.vcxproj -> C:\Users\PC\Desktop\RenderProject\Debug\RenderProject.exe
